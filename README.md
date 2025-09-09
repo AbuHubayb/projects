@@ -33,8 +33,8 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 
 | Project Name   | Platform       | Tools & Techniques                | Impact / Result                                | URL |
 |----------------|----------------|-----------------------------------|-----------------------------------------------|-----|
-| **FagoPay**    | Web + Mobile   | Manual E2E, Load Test             | Reduced cart drop-offs, improved UX stability | -   |
-| **Curacel Pay**| Web App        | Manual E2E, Load Test             | Secured transactions & reduced prod issues    | -   |
+| **FagoPay**    | Web + Mobile   | Manual E2E, Load Test             | Reduced cart drop-offs, improved UX stability | https://www.fagopay.africa   |
+| **Curacel Pay**| Web App        | Manual E2E, Load Test             | Secured transactions & reduced prod issues    | https://www.curacel.co/curacel-pay?scLang=en   |
 
 ---
 
@@ -42,7 +42,8 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 
 | Project Name   | Platform       | Tools & Techniques                | Impact / Result                                | URL |
 |----------------|----------------|-----------------------------------|-----------------------------------------------|-----|
-| **Curacel Health** | Web App    | Manual E2E, Load Test             | Strengthened compliance & reduced defects     | -   |
+| **Curacel Health** | Web App    | Manual E2E, Load Test             | Strengthened compliance & reduced defects     | https://www.curacel.co/   |
+| **DentalDoor** | Web App    | Manual E2E, Load Test, Automation with Cypress             | Strengthened compliance with HIPAA & reduced defects     | https://dentaldoor.com/   |
 
 ---
 
@@ -50,8 +51,9 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 
 | Project Name   | Platform       | Tools & Techniques                | Impact / Result                                | URL |
 |----------------|----------------|-----------------------------------|-----------------------------------------------|-----|
-| **Abia IRS**   | Web App        | Manual E2E, Load Test             | Improved compliance portal stability          | -   |
-| **Enugu IRS**  | Web App        | Manual E2E, Load Test             | Reduced errors in taxpayer onboarding         | -   |
+| **Abia IRS**   | Web App        | Manual E2E, Load Test             | Improved compliance portal stability          | https://abiairs.gov.ng/   |
+| **Enugu IRS**  | Web App        | Manual E2E, Load Test             | Reduced errors in taxpayer onboarding         | https://irs.en.gov.ng/   |
+| **NIMC** | Web App    | Manual E2E, Load Test             | Strengthened compliance, Security & reduced Vulneability     | https://nimc.gov.ng/   |
 
 ---
 
