@@ -66,21 +66,7 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 
 ---
 
-## 📸 Samples
-
-- ![Allure Report](images/allure-sample.png) Example Allure Test Report  
-- ![JMeter Report](images/jmeter-report.png) Example Performance Test Result  
-
----
-
-## 🌐 Live Portfolio Page
-
-This portfolio is also available at:  
-👉 [https://yourusername.github.io/qa-portfolio](https://yourusername.github.io/qa-portfolio)
-
----
-
 📩 **Let’s Connect:**  
-- [Upwork Profile](#)  
-- [LinkedIn](#)  
-- [Email](mailto:your@email.com)  
+- [WhatsApp](+2347036978489)  
+- [LinkedIn](http://www.linkedin.com/in/abeeb-raji-3a74b41b4/)  
+- [Email](almabuub@gmail.com)  
