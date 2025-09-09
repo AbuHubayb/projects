@@ -1,7 +1,7 @@
 # 🔍 QA Testing Portfolio – Abeeb Raji
 
-Welcome to my professional QA portfolio.  
-I’ve over 5 years testing web and mobile applications across **EdTech, FinTech, GovTech, SaaS, and HealthTech**.  
+Welcome to my QA portfolio.  
+I have over 5 years of testing web and mobile applications across **EdTech, FinTech, GovTech, SaaS, and HealthTech**.  
 This repository highlights the projects I’ve tested, the tools I’ve used, and the value I’ve delivered.  
 
 ---
@@ -35,6 +35,7 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 |----------------|----------------|-----------------------------------|-----------------------------------------------|-----|
 | **FagoPay**    | Web + Mobile   | Manual E2E, Load Test             | Reduced cart drop-offs, improved UX stability | https://www.fagopay.africa   |
 | **Curacel Pay**| Web App        | Manual E2E, Load Test             | Secured transactions & reduced prod issues    | https://www.curacel.co/curacel-pay?scLang=en   |
+| **WalletHub**| Web App        | Manual E2E, Load Test             | Reduced image upload issues in profiles    | https://wallethub.com/   |
 
 ---
 
@@ -51,7 +52,7 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 
 | Project Name   | Platform       | Tools & Techniques                | Impact / Result                                | URL |
 |----------------|----------------|-----------------------------------|-----------------------------------------------|-----|
-| **Abia IRS**   | Web App        | Manual E2E, Load Test             | Improved compliance portal stability          | https://abiairs.gov.ng/   |
+| **Abia IRS**   | Web App        | Manual E2E, Load Test, Automation with Cypress             | Improved compliance and Portal stability          | https://abiairs.gov.ng/   |
 | **Enugu IRS**  | Web App        | Manual E2E, Load Test             | Reduced errors in taxpayer onboarding         | https://irs.en.gov.ng/   |
 | **NIMC** | Web App    | Manual E2E, Load Test             | Strengthened compliance, Security & reduced Vulneability     | https://nimc.gov.ng/   |
 
@@ -61,8 +62,27 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 
 | Project Name   | Platform       | Tools & Techniques                | Impact / Result                                | URL |
 |----------------|----------------|-----------------------------------|-----------------------------------------------|-----|
-| **Scandium**   | Web App        | Manual E2E, Load Test             | Ensured onboarding for 10k+ users             | -   |
-| **MTN EILMS**  | Web App        | Manual E2E, Load Test             | Stabilized learning system for large audience | -   |
+| **Scandium**   | Web App        | Manual E2E, Load Test             | Ensured onboarding for 10k+ users             | https://getscandium.com/   |
+| **MTN EILMS**  | Web App        | Manual E2E, Load Test             | Stabilized app quality for inventory management | N/A   |
+| **Expira**  | Web App        | Manual E2E, Performance Tests             | Stabilized for large transaction | https://expira.com/   |
+
+---
+
+## ☁️ Real Estate Projects
+
+| Project Name   | Platform       | Tools & Techniques                | Impact / Result                                | URL |
+|----------------|----------------|-----------------------------------|-----------------------------------------------|-----|
+| **AAP**   | Web App        | Manual E2E, Load Test             | Ensured onboarding for 10k+ users             | https://nlng.estateandhomes.ng/   |
+| **AssetKey**  | Web App + Mobile       | Manual E2E             | Ensure app accuracy with geofencing | https://assetkey.com/   |
+
+---
+
+## ☁️ Identity Management/PaaS Projects
+
+| Project Name   | Platform       | Tools & Techniques                | Impact / Result                                | URL |
+|----------------|----------------|-----------------------------------|-----------------------------------------------|-----|
+| **mySmartID**   | Web App        | Manual E2E, Load Test             | Ensured onboarding for 10k+ users             | https://www.mysmartid.io/   |
+| **EbonyLife**   | Mobile App        | Manual E2E             | Reduced bug on mobile app             | https://ebonylifeplace.com/   |
 
 ---
 
