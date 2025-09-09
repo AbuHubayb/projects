@@ -23,9 +23,9 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 
 | Project Name   | Platform       | Tools & Techniques                | Impact / Result                                | URL |
 |----------------|----------------|-----------------------------------|-----------------------------------------------|-----|
-| **iDSS Pro**   | Web App        | Manual E2E, API Testing, Postman  | Improved coverage & early bug detection        | -   |
-| **iDSS UTME**  | Web App        | Manual E2E, API Testing, Cypress  | Found blockers before release, ensured stability | -   |
-| **iDSS Scholar** | Mobile App   | Manual E2E, Load Test             | Enabled smooth onboarding for 10k+ users       | -   |
+| **iDSS Pro**   | Web App        | Manual E2E, Load Tests, API Testing, Postman  | Improved coverage & early bug detection        | https://pro.techeducratic.com/signin   |
+| **iDSS UTME**  | Web App        | Manual E2E, API Testing, Load Tests Cypress  | Found blockers before release, ensured stability | https://utme.techeducratic.com/   |
+| **iDSS Scholar** | Mobile App   | Manual E2E, API Testing             | Enabled smooth onboarding for 10k+ users       | N/A   |
 
 ---
 
