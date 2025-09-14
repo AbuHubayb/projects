@@ -14,10 +14,12 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 ![BDD](https://img.shields.io/badge/Testing-BDD-pink)  
 ![Cypress](https://img.shields.io/badge/Tool-Cypress-green) 
 ![Postman](https://img.shields.io/badge/Tool-Postman-orange) 
-![JMeter](https://img.shields.io/badge/Tool-JMeter-red)  
-![Katalon](https://img.shields.io/badge/Tool-Katalon-brightgreen) 
+![JMeter](https://img.shields.io/badge/Tool-JMeter-red) 
+![Katalon](https://img.shields.io/badge/Tool-Katalon-brightgreen)  
 ![API Testing](https://img.shields.io/badge/Focus-API%20Testing-purple) 
-![Performance - Load & Stress](https://img.shields.io/badge/Focus-Performance-yellow)
+![Performance](https://img.shields.io/badge/Focus-Performance-yellow)  
+![JIRA](https://img.shields.io/badge/Focus-API%20Testing-green) 
+![TRELLO](https://img.shields.io/badge/Focus-Performance-lightyellow)
 
 ---
 
