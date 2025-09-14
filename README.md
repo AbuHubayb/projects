@@ -9,13 +9,15 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 ## 🛠️ Skills & Tools
 
 ![Manual Testing](https://img.shields.io/badge/Testing-Manual-blue) 
-![Automation](https://img.shields.io/badge/Testing-Automation-orange)  
+![Automation](https://img.shields.io/badge/Testing-Automation-orange) 
+![Agile](https://img.shields.io/badge/Testing-Agile-orange) 
+![BDD](https://img.shields.io/badge/Testing-BDD-orange)  
 ![Cypress](https://img.shields.io/badge/Tool-Cypress-green) 
 ![Postman](https://img.shields.io/badge/Tool-Postman-orange) 
 ![JMeter](https://img.shields.io/badge/Tool-JMeter-red)  
-![Selenium](https://img.shields.io/badge/Tool-Selenium-brightgreen) 
+![Katalon](https://img.shields.io/badge/Tool-Katalon-brightgreen)  
 ![API Testing](https://img.shields.io/badge/Focus-API%20Testing-purple) 
-![Performance](https://img.shields.io/badge/Focus-Performance-yellow)
+![Performance - Load & Stress](https://img.shields.io/badge/Focus-Performance-yellow)
 
 ---
 
