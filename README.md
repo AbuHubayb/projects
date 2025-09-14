@@ -22,7 +22,7 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 ![TRELLO](https://img.shields.io/badge/Tracking-TRELLO-lightpink)  
 ![Healthcare](https://img.shields.io/badge/Domain-Healthcare-lightred) 
 ![Finance](https://img.shields.io/badge/Domain-Finance-lightblue) 
-![E-Commerce](https://img.shields.io/badge/Domain-E-Commerce-darkgreen) 
+![E-Commerce](https://img.shields.io/badge/Domain-E%20-%20Commerce-darkgreen) 
 ![Telecoms](https://img.shields.io/badge/Domain-Telecoms-lightyellow) 
 ![Education](https://img.shields.io/badge/Domain-Education-lightpurple) 
 
