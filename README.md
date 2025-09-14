@@ -17,9 +17,9 @@ This repository highlights the projects I’ve tested, the tools I’ve used, an
 ![JMeter](https://img.shields.io/badge/Tool-JMeter-red) 
 ![Katalon](https://img.shields.io/badge/Tool-Katalon-brightgreen)  
 ![API Testing](https://img.shields.io/badge/Focus-API%20Testing-purple) 
-![Performance](https://img.shields.io/badge/Focus-Performance-yellow)  
-![JIRA](https://img.shields.io/badge/Focus-API%20Testing-green) 
-![TRELLO](https://img.shields.io/badge/Focus-Performance-lightyellow)
+![Performance](https://img.shields.io/badge/Focus-Performance%20StressI%20&I%20Load-yellow)  
+![JIRA](https://img.shields.io/badge/Focus-JIRA-green) 
+![TRELLO](https://img.shields.io/badge/Focus-TRELLO-lightpink)
 
 ---
 
